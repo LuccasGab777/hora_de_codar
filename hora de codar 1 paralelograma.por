@@ -4,13 +4,13 @@ programa {
    real altura
    real area
 
-   escreva("o valor da base é ? ")
+   escreva("o valor da base Ã© ? ")
    leia(base)
-   escreva("o valor da altura é? ")
+   escreva("o valor da altura Ã©? ")
    leia(altura)
 
    area = altura*base
 
-   escreva("o valor da area é", area )
+   escreva("o valor da area Ã©", area )
   }
 }
