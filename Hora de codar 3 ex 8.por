@@ -1,8 +1,8 @@
 programa {
   funcao inicio() {
     /* Ler um valor N e imprimir todos os valores inteiros entre 1 (inclusive) e N (inclusive).
-       Considere que o N ser· sempre maior que ZERO.
-       N  È um valor informado pelo usu·rio
+       Considere que o N ser√° sempre maior que ZERO.
+       N  √© um valor informado pelo usu√°rio
     */
     inteiro n1,contagem=1
 
@@ -17,14 +17,14 @@ programa {
     }
     limpa()
     
-    escreva("Os n˙meros entre 1 e ",n1, " s„o: ")
+    escreva("Os n√∫meros entre 1 e ",n1, " s√£o: ")
 
     enquanto (contagem<=n1)
     {
     escreva(" ",contagem)
      contagem=contagem +1
     }
-    escreva("\n No total existem:",n1," n˙meros")
+    escreva("\n No total existem:",n1," n√∫meros")
     
   }
 }
