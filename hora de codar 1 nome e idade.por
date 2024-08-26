@@ -6,9 +6,9 @@ programa {
  escreva("escreva o seu nome ")
  leia (nome_do_usuario )
  
- escreva("qual È a sua idade ")
+ escreva("qual √© a sua idade ")
  leia(idade)
-escreva("ol· ", nome_do_usuario," sua idade È ", idade )
+escreva("ol√° ", nome_do_usuario," sua idade √© ", idade )
   
   }
 }
