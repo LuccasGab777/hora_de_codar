@@ -1,7 +1,7 @@
 programa {
   funcao inicio() {
     /* Tendo como entrada a altura e o sexo (codificado da seguinte forma: 1: feminino 2: masculino)
-     de uma pessoa, construa um programa que calcule e imprima seu peso ideal, utilizando as seguintes fórmulas:
+     de uma pessoa, construa um programa que calcule e imprima seu peso ideal, utilizando as seguintes fÃ³rmulas:
     */
 
  real altura, pesoIdeal
@@ -14,7 +14,7 @@ programa {
     escreva("Informe o sexo (1 para feminino, 2 para masculino): ")
     leia(sexo)
     
-    // Cálculo do peso ideal com base no sexo
+    // CÃ¡lculo do peso ideal com base no sexo
     se (sexo == 1) {
       // Feminino
       pesoIdeal = (62.1 * altura) - 44.7
@@ -24,7 +24,7 @@ programa {
     }
     
     // Exibe o resultado
-    escreva("O peso ideal é: ", pesoIdeal,"kg\n")
+    escreva("O peso ideal Ã©: ", pesoIdeal,"kg\n")
 
 
   }
