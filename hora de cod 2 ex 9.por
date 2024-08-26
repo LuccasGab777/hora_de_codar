@@ -1,7 +1,7 @@
 programa {
   funcao inicio() {
       /* Escreva um programa para ler o ano de nascimento de uma pessoa e escrever uma mensagem
-     que diga se ela poder· ou n„o votar este ano (n„o È necess·rio considerar o mÍs em que ela nasceu).
+     que diga se ela poder√° ou n√£o votar este ano (n√£o √© necess√°rio considerar o m√™s em que ela nasceu).
     */
     inteiro ano
     
@@ -9,11 +9,11 @@ programa {
    leia(ano)
 
     se(ano<2007 e ano>1954){
-      escreva("vocÍ pode votar esse ano ")
+      escreva("voc√™ pode votar esse ano ")
     }
     senao se(ano>2007){
-    escreva("vocÍ n„o pode votar")
+    escreva("voc√™ n√£o pode votar")
     } senao {(ano<1954)
-    escreva("VocÍ n„o precisa votar")} 
+    escreva("Voc√™ n√£o precisa votar")} 
   }
 }
