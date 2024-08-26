@@ -4,14 +4,14 @@ programa {
   real altura
   real area
 
-  escreva("qual é o valor da base? ")  
+  escreva("qual Ã© o valor da base? ")  
   leia (base)
-  escreva ("qual é a altura? ")
+  escreva ("qual Ã© a altura? ")
   leia (altura)
 
   area = base*altura
 
-  escreva("o tamanho do retangulo é ", area)
+  escreva("o tamanho do retangulo Ã© ", area)
 
   }
 }
