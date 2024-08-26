@@ -1,7 +1,7 @@
 programa {
   funcao inicio() {
 
-//Faça um algoritmo que calcule e escreva a média aritmética dos números inteiros entre 15 (inclusive) e 100 (inclusive).
+//FaÃ§a um algoritmo que calcule e escreva a mÃ©dia aritmÃ©tica dos nÃºmeros inteiros entre 15 (inclusive) e 100 (inclusive).
 
     real numb1,numb2,resultado
 
@@ -22,7 +22,7 @@ programa {
       leia(numb2)
       }
       resultado=(numb1+numb1)/2
-      escreva("O resultado da média aritimetica dos valores é: ",resultado)
+      escreva("O resultado da mÃ©dia aritimetica dos valores Ã©: ",resultado)
       
     }
   }
