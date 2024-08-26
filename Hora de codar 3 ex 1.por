@@ -18,7 +18,7 @@ programa {
    
 
    resultado = n1/n2
-   escreva("o resultado da divisão dos dois números é: ", resultado )  
+   escreva("o resultado da divisÃ£o dos dois nÃºmeros Ã©: ", resultado )  
 
   }
 }
